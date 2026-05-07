@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: seriph
 background: /assets/futurefrontend.png
 
 title: This is not the tech I signed up for!
@@ -9,11 +9,8 @@ info: |
 class: text-center
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
-# duration of the presentation
 duration: 38min
 ---
 
@@ -22,7 +19,9 @@ duration: 38min
 An approach to permacomputing
 
 ---
+layout: image-right
 transition: fade-out
+image: /assets/futurefrontend.png
 ---
 
 # A bit about me
@@ -39,7 +38,6 @@ This is gonna be the anti-professional talk. Nobody will want to hire me.
 To be clear, I am not fully against AI. I just think its boring and I stand against everything it is mainly being used for nowadays. But the technology is innocent.
 
 You may hate me after this.
-
 <style>
 
 </style>
@@ -49,13 +47,15 @@ Here is another comment.
 -->
 
 ---
+layout: cover
 transition: slide-up
 level: 2
 ---
 
 # Were are we at
+<!--
 We have seen many developments in the last few years but I think it is good we dumb everything down to the most basic of logics. This is about:
-
+-->
 ---
 transition: slide-up
 level: 2
@@ -95,10 +95,10 @@ How it has changed though is that back then humans were the ones actually having
 
 Text takes 10 times less space than a small picture and 350 times less than a low quality 1 minute video. Now we have access to video generating AI “products” that produce millions of those per month.
 ---
-layout: two-cols
+layout: cover
 layoutClass: gap-16
 ---
-How do I arrive at this?
+# How do I arrive at this?
 
 ---
 layout: two-cols
@@ -114,6 +114,12 @@ I needed a break from all of this I just mentioned.
 I tried to find some meaning in my job, something that makes me feel like I am doing meaningful stuff, not only corporate stuff
 
 Then I find Permacomputing
+
+---
+layout: cover
+---
+# Permacomputing
+
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -154,10 +160,10 @@ Principles:
 - (Almost) Everything has a place
 - Integrate Biological and Renewable Resources
 ---
-layout: two-cols
+layout: cover
 layoutClass: gap-16
 ---
-Why Permacomputing?
+# Why Permacomputing?
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -175,10 +181,11 @@ Instead of following the historical trend of trying to always improve on hardwar
 
 Better instead of more!
 ---
-layout: two-cols
+layout: cover
 layoutClass: gap-16
 ---
-What can we (or to be more specific, you) do?
+# What can we do?
+## (Or to be more specific: what can YOU do?)
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -209,10 +216,10 @@ Regain you agency for creation
 
 Reduce your dependancy on third party services (specially if they come with a subscription!)
 ---
-layout: two-cols
+layout: cover
 layoutClass: gap-16
 ---
-How to approach all of this?
+# How to approach all of this?
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -236,5 +243,11 @@ You get fed up with Windows and decide to look into Linux.
 You stop thinking about what hardware piece is your next one and you start taking buying new things as a loss…
 
 This talk has been me telling you about what I have spent the last 5 months doing in the background but it is mostly about telling you to go and do small things but do them. Do not push that small voice in your head that tells you “I will do it later” or “someone will fix this later”.
-
-I do not have the answers. You have to go through this process yourself. It is a personal choice and I cannot force anyone to go through it. This might not change anything, but you can at least try.
+---
+layout: cover
+---
+* Nothing can or will change without structural change in both society and the economical system
+* I do not have the answers. 
+* You have to go through this process yourself.
+* It is a personal choice and I cannot force anyone to go through it.
+* This might not change anything, but you can at least try.
