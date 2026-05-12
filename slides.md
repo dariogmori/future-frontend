@@ -32,15 +32,16 @@ Who am I?
 - I enjoy hiking and foraging mushrooms
 - I ferment fruits and vegetables
 - I make videogames sometimes
+- My job? Ask me later
 
 ---
 layout: cover
 transition: slide-up
 level: 2
 ---
-This is gonna be the anti-professional talk. Nobody will want to hire me.
+Excuse this non-professional talk.
 
-To be clear, I am not fully against AI. I just think its boring and I stand against everything it is mainly being used for nowadays. But the technology is innocent.
+To be clear, I am not fully against AI. 
 
 You may hate me after this.
 <!--

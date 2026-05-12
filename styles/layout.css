@@ -3,6 +3,7 @@
   /* can be overrided by uses `themeConfig` option */
   --slidev-theme-primary: #452e3f;
   --main-color: #452e3f;
+  --secondary-color: #4a5786;
 }
 
 .slidev-layout.cover,
@@ -13,4 +14,13 @@
     @apply text-6xl leading-20;
   }
 
+}
+.slidev-layout.default{
+  p {
+  	color: var(--main-color);
+  }
+  li {
+  	color: var(--main-color);
+  	margin-bottom: 30px;
+  }
 }
