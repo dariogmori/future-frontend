@@ -21,18 +21,29 @@ An approach to permacomputing
 ---
 layout: image-right
 transition: fade-out
-image: /assets/futurefrontend.png
+image: /assets/about-me.png
 ---
 
 # A bit about me
-Darío Gutiérrez Mori
 
-Who am I
+Who am I?
 
 - I live in Asturias, Spain
 - I enjoy hiking and foraging mushrooms
-- I make games sometimes
+- I ferment fruits and vegetables
+- I make videogames sometimes
 
+<style>
+h1 {
+	color: var(--primary-color);
+}
+</style>
+
+---
+layout: cover
+transition: slide-up
+level: 2
+---
 This is gonna be the anti-professional talk. Nobody will want to hire me.
 
 To be clear, I am not fully against AI. I just think its boring and I stand against everything it is mainly being used for nowadays. But the technology is innocent.
@@ -60,14 +71,16 @@ We have seen many developments in the last few years but I think it is good we d
 transition: slide-up
 level: 2
 ---
+# Productivity
+The industry sucks
 
+- AI → leads to “increase in productivity”
+	- Translates to increase in slop
+    - Translates to increase in cognitive load
 
-- Productivity → The industry sucks
-    - AI → leads to “increase in productivity”
-        - Translates to increase in slop
-        - Translates to increase in cognitive load
-        
-        we become “more productive” → we can generate more “value” but we work the same and are paid the same amount for triple the cognitive load.
+we become “more productive” → we can generate more “value” but we work the same and are paid the same amount for triple the cognitive load.
+
+Positive feedback loop.png
 ---
 transition: slide-up
 level: 2
