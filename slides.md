@@ -33,12 +33,6 @@ Who am I?
 - I ferment fruits and vegetables
 - I make videogames sometimes
 
-<style>
-h1 {
-	color: var(--primary-color);
-}
-</style>
-
 ---
 layout: cover
 transition: slide-up
@@ -49,10 +43,6 @@ This is gonna be the anti-professional talk. Nobody will want to hire me.
 To be clear, I am not fully against AI. I just think its boring and I stand against everything it is mainly being used for nowadays. But the technology is innocent.
 
 You may hate me after this.
-<style>
-
-</style>
-
 <!--
 Here is another comment.
 -->
