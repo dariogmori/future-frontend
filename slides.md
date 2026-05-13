@@ -35,7 +35,7 @@ Who am I?
 - My job? Ask me later
 
 ---
-layout: cover
+layout: TitleCard
 transition: none
 level: 2
 ---
@@ -45,12 +45,7 @@ To be clear, I am not fully against AI.
 
 
 You may hate me after this.
-<div class="top-title-card"></div>
-<div class="title-card">
-	<p class="inside-text">Scene no. 03 </p>
-	<p class="inside-text">FF/♦/FI</p>
-</div>
-<div class="bottom-title-card"></div>
+
 <!--
 Here is another comment.
 -->
