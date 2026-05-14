@@ -16,10 +16,6 @@
 
 }
 
-.slidev-layout.cover {
-	background-color: var(--main-color);
-}
-
 .slidev-layout.default{
   p {
   	color: var(--main-color);

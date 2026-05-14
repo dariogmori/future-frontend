@@ -24,7 +24,7 @@ transition: none
 image: /assets/about-me.png
 ---
 
-# A bit about me
+# a bit about me.
 
 Who am I?
 
@@ -51,20 +51,20 @@ Here is another comment.
 -->
 
 ---
-layout: cover
+layout: SectionTitle
 transition: slide-up
 level: 2
 ---
-
-# Were are we at
+# where we are at.
 <!--
 We have seen many developments in the last few years but I think it is good we dumb everything down to the most basic of logics. This is about:
 -->
 ---
-transition: slide-up
-level: 2
+layout: image-right
+transition: none
+image: /assets/the-wheel.png
 ---
-# Productivity
+# productivity
 The industry sucks
 
 - AI → leads to “increase in productivity”
@@ -78,33 +78,57 @@ Positive feedback loop.png
 transition: slide-up
 level: 2
 ---       
-- Consumerism → We suck
-    - We are becoming more dependant on stuff we don’t need and we do not even own
-    - Dopamine cycle
+# consumerism
+We suck
+- We are becoming more dependant on stuff we don’t need and we do not even own
+- Dopamine cycle
+
 ---
 transition: slide-up
 level: 2
 ---
-Is this a failure of the system?
-No! It's a flawless execution of the system
-- It’s pure capitalism baby → pure supply and demand
-    - slop era → we consume more and more and generate more and more
-    - now not even humans are needed! (both to create and consume!)
-    - To anyone summarising this with an AI: *go touch grass!*
+# more is better
+
+- it is always waiting for the "newest and best model that will change everything"
+- point 2
+- point 3
 ---
 transition: slide-up
 level: 2
 ---
+# optimization't
+
 Here I have an article talking about how even if the internet speeds keep getting faster we will never get a faster internet experience since content size and amount keeps increasing year by year. This is an article from 2008. I was 6 at the time (this is me [insert pic]). The world hasnt changed much huh.
 
 How it has changed though is that back then humans were the ones actually having to generate the content, funny to think back to easier times. 
 
 Text takes 10 times less space than a small picture and 350 times less than a low quality 1 minute video. Now we have access to video generating AI “products” that produce millions of those per month.
+
 ---
-layout: cover
+transition: slide-up
+level: 2
+---
+# you will know nothing...
+and be happy?
+
+- outsourcing of intelligence to AI
+- the jobs of the future will require no manual work
+	- but there will be new jobs using AI!
+	- yeah but where is this taking us?
+---
+transition: slide-up
+level: 2
+---
+# is this a failure of the system?
+- It’s pure capitalism baby → pure supply and demand
+- slop era → we consume more and more and generate more and more
+- now not even humans are needed! (both to create and consume!)
+- To anyone summarising this with an AI: *go touch grass!*
+---
+layout: SectionTitle
 layoutClass: gap-16
 ---
-# How do I arrive at this?
+# how do I arrive at this?
 
 ---
 layout: two-cols
@@ -122,9 +146,9 @@ I tried to find some meaning in my job, something that makes me feel like I am d
 Then I find Permacomputing
 
 ---
-layout: cover
+layout: SectionTitle
 ---
-# Permacomputing
+# permacomputing
 
 ---
 layout: two-cols
@@ -166,10 +190,10 @@ Principles:
 - (Almost) Everything has a place
 - Integrate Biological and Renewable Resources
 ---
-layout: cover
+layout: SectionTitle
 layoutClass: gap-16
 ---
-# Why Permacomputing?
+# why permacomputing?
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -187,11 +211,11 @@ Instead of following the historical trend of trying to always improve on hardwar
 
 Better instead of more!
 ---
-layout: cover
+layout: SectionTitle
 layoutClass: gap-16
 ---
-# What can we do?
-## (Or to be more specific: what can YOU do?)
+# what can we do?
+## (or to be more specific: what can YOU do?)
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -222,12 +246,13 @@ Regain you agency for creation
 
 Reduce your dependancy on third party services (specially if they come with a subscription!)
 ---
-layout: cover
+layout: SectionTitle
 layoutClass: gap-16
 ---
-# How to approach all of this?
+# how to approach all of this?
 ---
 layout: two-cols
+transition: none
 layoutClass: gap-16
 ---
 I started small. Deciding I was gonna quit spotify and Instagram (and I did! (almost)). Then  I continued deciding I wanna self host a music server and your webpage. Then I remember what I heard about PostmarketOS and get into that. 
@@ -250,10 +275,37 @@ You stop thinking about what hardware piece is your next one and you start takin
 
 This talk has been me telling you about what I have spent the last 5 months doing in the background but it is mostly about telling you to go and do small things but do them. Do not push that small voice in your head that tells you “I will do it later” or “someone will fix this later”.
 ---
-layout: cover
+layout: TitleCardBW
+transition: none
 ---
-* Nothing can or will change without structural change in both society and the economical system
-* I do not have the answers. 
-* You have to go through this process yourself.
-* It is a personal choice and I cannot force anyone to go through it.
-* This might not change anything, but you can at least try.
+Nothing can or will change without structural change in both society and the economical system
+
+I do not have the answers. 
+
+You have to go through this process yourself.
+
+It is a personal choice and I cannot force anyone to go through it.
+
+This might not change anything, but you can at least try.
+
+<style>
+.title-card {
+	background-color: white !important;
+	border: 1px solid white;
+}
+</style>
+
+---
+layout: SectionTitle
+---
+<div style="align-content: center; display:flex; justify-content: center;">
+	<img src="/assets/pmclogo-neau.png" style="image-rendering: crisp-edges;" />
+</div>
+<p>thanks.</p>
+
+<style>
+p {
+	color: black;
+	margin-top: 0px;
+}
+</style>
