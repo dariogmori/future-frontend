@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /assets/futurefrontend.png
+background: /assets/futurefrontend-dithered.png
 
 title: This is not the tech I signed up for!
 info: |
@@ -13,10 +13,33 @@ transition: slide-left
 comark: true
 duration: 38min
 ---
-
-# This is not the tech I signed up for! 
-
-An approach to permacomputing
+<div style="width: 70%; background: #3e3b66;">
+	<h1>
+	This is not the tech I signed up for!
+	</h1>
+	<h2>
+		An approach to permacomputing
+	</h2>
+</div>
+<style>
+.slidev-layout {
+	background-image: url("/assets/futurefrontend-dithered.png") !important;
+	align-content: start;
+	justify-content: start;
+	flex-wrap: wrap;
+}
+h1 {
+	font-size: 2.75rem !important;
+	line-height: 2.75rem !important;
+	text-align: left;
+	margin: 5px;
+}
+h2 {
+	font-size: 1.5rem !important;
+	text-align: left;
+	margin: 5px;
+}
+</style>
 
 ---
 layout: image-right
