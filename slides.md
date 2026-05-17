@@ -103,23 +103,31 @@ level: 2
 ---       
 # consumerism
 We suck
-- We are becoming more dependant on stuff we don’t need and we do not even own
-- Dopamine cycle
-
+- We are becoming more dependant on stuff we don’t need
+- Commoditization
+- Dopamine cycle (tiktok brain)
+- Hiperacceleration of the capitalist mentality
+- dubai chocolate, labubu, matcha latte...
+- be your own boss, get rich quick with crypto, invest on AI and retire at 30
+- creation of unrealistic expectations of living
 ---
 transition: slide-up
 level: 2
 ---
 # more is better
 
-- it is always waiting for the "newest and best model that will change everything"
-- point 2
-- point 3
+- always waiting for the "newest and best model that will change everything"
+- add more functionalities, more value
+- you must prepare for "infinite growth"
+- always aspire for more
+- this powers the silicon chip industry, which is the main polluting factor from computing nowadays (embodied energy from a device)
 ---
 transition: slide-up
 level: 2
 ---
 # optimization't
+- Jevons paradox
+- Wirth's law
 
 Here I have an article talking about how even if the internet speeds keep getting faster we will never get a faster internet experience since content size and amount keeps increasing year by year. This is an article from 2008. I was 6 at the time (this is me [insert pic]). The world hasnt changed much huh.
 
@@ -172,7 +180,9 @@ Then I find Permacomputing
 layout: SectionTitle
 ---
 # permacomputing
-
+<div style="align-content: center; display:flex; justify-content: center;">
+	<img src="/assets/pmclogo-neau.png" style="image-rendering: crisp-edges;" />
+</div>
 ---
 layout: two-cols
 layoutClass: gap-16
@@ -183,19 +193,23 @@ https://permacomputing.net/
 - community of practice
 - a utopian ideal
 ---
-layout: two-cols
+layout: image-right
 layoutClass: gap-16
+image: /assets/baldornon-garden-dithered.png
 ---
-
-- Taking the same roots as pelmaculture
+# permaculture
+- creating sustainable practices for agriculture that replicate existing working relationships and systems found in nature
+- avoids chemical pesticides or fertilizers in favor of other natural agricultural practices
+- follows an approach that encourages regenerable and resilient processes based on existing systems found in nature  
+---
+layout: image-right
+layoutClass: gap-16
+image: /assets/mushrooms-chip-dithered.png
+---
 - asking is whether or not there can be a place for computer and network technology in a world where humans contribute to the well-being of the biosphere rather than destroy it? And if yes, how?
----
-layout: two-cols
-layoutClass: gap-16
----
-- needs a lot of rethinking, rebuilding and technical design work to put in practice. This is why a lot of material on this wiki is highly technical.
-- oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
-- In a time where computing epitomizes industrial waste and exploitation, permacomputing encourages a more sustainable approach, maximizing hardware lifespans, minimizing energy use and focussing on the use of already available computational resources
+- how can we obtain resilient and regenerate computing setups?
+- permacomputing encourages a more sustainable approach, maximizing hardware lifespans, minimizing energy use and focussing on the use of already available computational resources
+- needs a lot of rethinking, rebuilding and technical design work to put in practice.
 ---
 layout: two-cols
 layoutClass: gap-16
