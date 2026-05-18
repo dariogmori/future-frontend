@@ -1,10 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  slidev: {
-  },
-  server {
+  server: {
   	allowedHosts: ['.dariogmori.com', '.dariogmori.net']
-  }
-  
+  },
 })
